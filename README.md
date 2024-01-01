@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=f1c232&text="Hello%202024"&height=150&fontSize=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=f1c232&text=👏%20"Hello%202024"%20👏&height=150&fontSize=60)
 
 <!--### Hi there 👋-->
 

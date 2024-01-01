@@ -1,4 +1,6 @@
-### Hi there 👋
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=f1c232&text="Hello%202024"&height=150&fontSize=60)
+
+<!--### Hi there 👋-->
 
 <!--
 **r-ush/r-ush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
